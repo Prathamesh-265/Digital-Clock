@@ -1,0 +1,19 @@
+.bg-container {
+    height: 100vh;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.clock-container {
+    font-size: 40px;
+    font-weight: bold;
+    background: #333;
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(255, 255, 0.2);
+}
