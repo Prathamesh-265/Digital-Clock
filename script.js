@@ -1,5 +1,4 @@
-function updateClock() {
-    
+function updateClock(){   
     // Creating date object
     let date = new Date();
     let getHours = date.getHours();
