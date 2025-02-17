@@ -1,4 +1,6 @@
 function updateClock(){   
+    let headingEl = document.getElementById("heading");
+    
     // Creating date object
     let date = new Date();
     let getHours = date.getHours();
